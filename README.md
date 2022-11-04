@@ -1,2 +1,5 @@
 # During-the-2020-COVID-19-pandemic-how-did-engagement-with-digital-learning-relate-to-social-and-dem
 The aim is to examine and reveal relationship(s) between various components of the digital learning phenomenon and by so doing, provide critical information for reviews and enactments of policy(ies). Generally, 'pct_access' is assumed to be a measure of social access concerns in the USA:
+The aim is to examine and reveal relationship(s) between various components of the digital learning phenomenon and by so doing, provide critical information for reviews and enactments of policy(ies). Generally, 'pct_access' is assumed to be a measure of social access concerns in the USA:
+
+"Social access is a concept of the delivery of public services, facilities and amenities to intended user groups. Limited access may be due to their high cost, the lack of appropriate infrastructure or due to prejudices within the society that restrict use......." (extracted from Wikipedia (https://en.wikipedia.org/wiki/Social_access)).
